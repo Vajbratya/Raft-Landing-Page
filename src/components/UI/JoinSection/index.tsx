@@ -49,13 +49,13 @@ const JoinSection = () => {
           <MaskText phrases={desktopHeaderPhrase} tag="h1" />
         </Header>
         <TestimonialWrapper>
-          {mappedTestimonials.map((t, i) => (
+          {mappedTestimonials.map((t: Props, i: number) => (
             <Testimonial key={i}>
               <Testimony>{t.testimony}</Testimony>
               <UserInfo>
                 <Name>
                   <MaskText phrases={new Array(t.person)} tag="h3" />
-                  <MaskText phrases={new Array('Happy RAFT User')} tag="p" />
+                  <MaskText phrases={new Array('Radiologista usuário Laudos.AI')} tag="p" />
                 </Name>
                 <Avatar>
                   <Image src={t.avatar} alt="user avatar" />

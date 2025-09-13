@@ -3,39 +3,36 @@ import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ["Introducing RAFT's Next-", 'Gen Cards'];
+export const desktopHeaderPhrase = ['Apresentando', 'Laudos.AI'];
 export const desktopParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards. Elevate your banking",
-  'experience with cutting-edge features, security, and unprecedented',
-  'convenience.',
+  'Fluxo de radiologia sem atrito: priorização inteligente,',
+  'segunda opinião assistida e consistência diagnóstica.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ["Introducing RAFT's", 'Next-Gen Cards'];
+export const mobileHeaderPhrase = ['Apresentando', 'Laudos.AI'];
 export const mobileParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards.",
-  ' Elevate your banking experience with cutting-edge',
-  'features, security, and unprecedented',
-  'convenience.',
+  'Fluxo de radiologia sem atrito:',
+  'priorização, segunda opinião e consistência.',
 ];
 
 export const edges = [
   {
-    point: 'Contactless Technology',
+    point: 'Priorização por risco em tempo real',
     details:
-      'Our new cards come equipped with contactless technology, allowing you to make swift, secure payments with a simple tap.',
+      'Casos urgentes sobem para o topo automaticamente com base nos achados e contexto clínico.',
     icon: ic_document_duplicate,
   },
   {
-    point: 'Personalization',
+    point: 'Segunda opinião assistida',
     details:
-      'Customize your card to reflect your unique style. Choose from a range of designs that suit your personality.',
+      'Sinalizações contextuais para achados críticos e comparação com casos similares.',
     icon: ic_identification,
   },
   {
-    point: 'Enhanced Security',
+    point: 'Fluxo seguro e resiliente',
     details:
-      'Your peace of mind is our priority. Our cards feature advanced security measures to protect your transactions and data.',
+      'Salvamento confiável e checagens automáticas reduzem retrabalho e perdas de laudo.',
     icon: ic_lock_closed,
   },
 ];
