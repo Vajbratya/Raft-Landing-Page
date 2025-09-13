@@ -1,7 +1,4 @@
-import seamless_payments from '../../../../public/images/seamless_payments.png';
-import smart_investing from '../../../../public/images/smart_investing.png';
-import wealth_management from '../../../../public/images/wealth_management.png';
-import financial_planning from '../../../../public/images/financial_planning.png';
+import grid_background from '../../../../public/images/grid_background.png';
 // For desktop
 export const desktopHeaderPhrases = [
   'IA radiológica que prioriza',
@@ -20,25 +17,25 @@ export const mobileParagraphPhrase = [
 
 export const offers = [
   {
-    illustration: seamless_payments,
+    illustration: grid_background,
     title: 'Priorização por risco',
     details:
       'Reordena automaticamente a fila por gravidade clínica e impacto no desfecho.',
   },
   {
-    illustration: smart_investing,
+    illustration: grid_background,
     title: 'Apoio ao diagnóstico',
     details:
       'Destaque de achados críticos e comparação com casos similares em segundos.',
   },
   {
-    illustration: wealth_management,
+    illustration: grid_background,
     title: 'Consistência de laudos',
     details:
       'Padrões e checklists dinâmicos para reduzir variabilidade e omissões.',
   },
   {
-    illustration: financial_planning,
+    illustration: grid_background,
     title: 'Resiliência do fluxo',
     details:
       'Salvamento confiável, recuperação automática e redução de retrabalho.',

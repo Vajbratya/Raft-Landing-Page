@@ -4,53 +4,51 @@ import ic_circle_stack from '../../../../public/svgs/ic_circle_stack.svg';
 import ic_arrows_left_right from '../../../../public/svgs/ic_arrows_right_left.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ['Your Financial Freedom,', 'Your Way'];
+export const desktopHeaderPhrase = ['Qualidade em escala,', 'sem perder o cuidado'];
 export const desktopParagraphPhrase = [
-  'We believe that managing your finances should be effortless and cost-effective.',
-  "That's why we offer you the freedom you deserve.",
+  'A Laudos.AI reduz ruído, prioriza o crítico e mantém a consistência',
+  'dos laudos mesmo quando o volume dispara.',
 ];
 export const desktopBriefNotePhrase = [
-  'Smart investments,',
-  'secure payments, and',
-  'expert guidance, all in',
-  'one place.',
+  'Priorização por risco,',
+  'segunda opinião assistida e',
+  'fluxo resiliente — em',
+  'um só lugar.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ['Your Financial', 'Freedom, Your Way'];
+export const mobileHeaderPhrase = ['Qualidade em escala,', 'sem perder o cuidado'];
 export const mobileParagraphPhrase = [
-  'We believe that managing your finances should be',
-  "effortless and cost-effective. That's why we offer",
-  ' you the freedom you deserve.',
+  'Laudos consistentes e priorização do crítico,',
+  'mesmo com alta demanda.',
 ];
 
 export const mobileBriefNotePhrase = [
-  'Smart',
-  ' investments,',
-  'secure',
-  ' payments,',
-  'and expert',
-  'guidance, all',
-  'in one place.',
+  'Priorização',
+  ' por risco,',
+  'segunda',
+  ' opinião,',
+  'fluxo',
+  ' resiliente.',
 ];
 
 export const edges = [
   {
-    point: 'No minimum balance fees',
+    point: 'Triagem que entende risco',
     details:
-      'Say goodbye to minimum balance fees. Your account, your balance—no hidden charges',
+      'Casos urgentes sobem automaticamente para o topo com base em achados e contexto clínico.',
     icon: ic_banknotes,
   },
   {
-    point: 'No monthly fees',
+    point: 'Consistência de laudos',
     details:
-      'Bank with us without worrying about monthly fees. Keep more of your money where it belongs—in your account',
+      'Checklists dinâmicos e padrões adaptativos reduzem variabilidade e omissões importantes.',
     icon: ic_circle_stack,
   },
   {
-    point: 'No bank transfer fees',
+    point: 'Fluxo resiliente',
     details:
-      'Seamlessly transfer funds without the extra cost. Send and receive money with zero bank transfer fees.',
+      'Salvamento e recuperação confiáveis previnem perda de laudos e retrabalho.',
     icon: ic_arrows_left_right,
   },
 ];
