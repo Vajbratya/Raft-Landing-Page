@@ -1,47 +1,43 @@
-import seamless_payments from '../../../../public/images/seamless_payments.png';
-import smart_investing from '../../../../public/images/smart_investing.png';
-import wealth_management from '../../../../public/images/wealth_management.png';
-import financial_planning from '../../../../public/images/financial_planning.png';
+import grid_background from '../../../../public/images/grid_background.png';
 // For desktop
 export const desktopHeaderPhrases = [
-  'Elevate Your Financial',
-  'Journey with RAFT',
+  'IA radiológica que prioriza',
+  'e protege a qualidade',
 ];
 export const desktopParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From investments to payments,',
-  "we've got you covered. Join us and unlock your potential today.",
+  'Da triagem inteligente ao apoio diagnóstico, Laudos.AI reduz ruído,',
+  'destaca o crítico e mantém consistência nos seus plantões.',
 ];
 
 // For mobile
 export const mobileParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From',
-  "investments to payments, we've got you covered.",
-  'Join us and unlock your potential today.',
+  'Triagem inteligente, apoio diagnóstico e',
+  'consistência de laudos em qualquer volume.',
 ];
 
 export const offers = [
   {
-    illustration: seamless_payments,
-    title: 'Seamless Payments',
+    illustration: grid_background,
+    title: 'Priorização por risco',
     details:
-      'Enjoy secure, seamless transactions that make managing your money a breeze.',
+      'Reordena automaticamente a fila por gravidade clínica e impacto no desfecho.',
   },
   {
-    illustration: smart_investing,
-    title: 'Smart Investing',
+    illustration: grid_background,
+    title: 'Apoio ao diagnóstico',
     details:
-      'Grow your wealth confidently with our personalized investment solutions, tailored to your financial goals.',
+      'Destaque de achados críticos e comparação com casos similares em segundos.',
   },
   {
-    illustration: wealth_management,
-    title: 'Wealth Management',
+    illustration: grid_background,
+    title: 'Consistência de laudos',
     details:
-      'Make informed decisions for your financial future with our wealth management expertise.',
+      'Padrões e checklists dinâmicos para reduzir variabilidade e omissões.',
   },
   {
-    illustration: financial_planning,
-    title: 'Financial Planning',
+    illustration: grid_background,
+    title: 'Resiliência do fluxo',
     details:
-      'Achieve your financial dreams with our comprehensive financial planning services, guiding you toward a secure future.',
+      'Salvamento confiável, recuperação automática e redução de retrabalho.',
   },
 ];

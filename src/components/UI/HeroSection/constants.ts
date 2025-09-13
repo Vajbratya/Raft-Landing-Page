@@ -1,13 +1,13 @@
 // For desktop
-export const phrases = ['Building the future of', 'banking.'];
+export const phrases = ['Radiologia que acelera', 'o cuidado.'];
 export const paragraphPhrases = [
-  "Experience the future of banking with RAFT. We're here to",
-  'empower your financial journey.',
+  'Laudos.AI prioriza casos críticos, reduz erros e devolve tempo',
+  'ao radiologista para focar no paciente.',
 ];
 
 // For mobile
-export const mobilePhrases = ['Building the future', 'of banking'];
+export const mobilePhrases = ['Radiologia que', 'acelera o cuidado'];
 export const mobileParagraphPhrases = [
-  "Experience the future of banking with RAFT. We're",
-  'here to empower your financial journey.',
+  'Laudos.AI prioriza casos críticos, reduz erros',
+  'e devolve tempo ao radiologista.',
 ];

@@ -12,34 +12,34 @@ export type Props = {
 export const testimonials = [
   {
     testimony:
-      "RAFT has transformed my approach to finance. Their smart investing options have helped me grow my wealth, and their user-friendly platform makes managing my money a breeze. I've never felt more confident about my financial future.",
+      'Laudos.AI reorganiza a fila e destaca achados críticos. Meu tempo voltou a ser do paciente — não do sistema.',
     person: 'Robert Fox',
     avatar: robert_fox,
   },
   {
     testimony:
-      "I can't express how grateful I am to RAFT. Their wealth management services have been a game-changer for my family's financial security. The expert guidance and personalized strategies have given us peace of mind, knowing that our future is in capable hands.",
+      'Automação sem fricção. Menos retrabalho, mais consistência. Plantões longos doem menos quando a IA ajuda de verdade.',
     person: 'Cameron Williamson',
     avatar: cameron_williamson,
   },
   {
     testimony:
-      "RAFT's financial planning services have been a lifeline for me. I always struggled with managing my money, but their team crafted a tailored plan that addressed my goals and concerns. It's been a game-changer in achieving my financial dreams",
+      'Segunda opinião assistida reduziu minhas revisões finais. Alertas de discrepância já evitaram erros em exames complexos.',
     person: 'Esther Howard',
     avatar: esther_howard,
   },
   {
     testimony:
-      "I can't express how grateful I am to RAFT. Their wealth management services have been a game-changer for my family's financial security. The expert guidance and personalized strategies have given us peace of mind, knowing that our future is in capable hands.",
+      'Priorizar por risco muda tudo: trauma e AVC aparecem primeiro. Sinto que a qualidade subiu mesmo com a demanda.',
     person: 'Cameron Williamson',
     avatar: cameron_williamson,
   },
   {
     testimony:
-      "RAFT has transformed my approach to finance. Their smart investing options have helped me grow my wealth, and their user-friendly platform makes managing my money a breeze. I've never felt more confident about my financial future.",
+      'Integração estável com PACS e salvamento resiliente. Adeus laudo perdido — e o estresse que vinha junto.',
     person: 'Robert Fox',
     avatar: robert_fox,
   },
 ];
 
-export const desktopHeaderPhrase = ['Join over 3 million', 'members'];
+export const desktopHeaderPhrase = ['Junte-se aos primeiros', 'a usar Laudos.AI'];

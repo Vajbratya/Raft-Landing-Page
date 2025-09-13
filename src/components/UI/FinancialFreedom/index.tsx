@@ -15,8 +15,7 @@ import RevealCover from '@/components/Common/RevealCover';
 import { Div } from '../Featured/styles';
 import { imageVariants } from '../Featured';
 import { useIsMobile } from '../../../../libs/useIsMobile';
-import financial_freedom_banner from '../../../../public/images/financial_freedom_banner.png';
-import freedom_mobile_banner from '../../../../public/images/freedom_mobile_banner.png';
+import grid_background from '../../../../public/images/grid_background.png';
 import {
   desktopBriefNotePhrase,
   desktopHeaderPhrase,
@@ -55,9 +54,9 @@ const FinancialFreedom = () => {
             viewport={{ amount: 0.25, once: true }}
           >
             {isMobile ? (
-              <Image src={freedom_mobile_banner} alt="banner_img" fill />
+              <Image src={grid_background} alt="placeholder banner mobile" fill />
             ) : (
-              <Image src={financial_freedom_banner} alt="banner_img" fill />
+              <Image src={grid_background} alt="placeholder banner" fill />
             )}
           </Div>
         </BannerCtn>

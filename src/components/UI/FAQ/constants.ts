@@ -3,8 +3,8 @@ type FAQItem = {
   answer: string;
 };
 
-export const desktopHeaderPhrase = ['Frequently asked', 'questions'];
-export const mobileHeaderPhrase = ['Frequently', 'asked', 'questions'];
+export const desktopHeaderPhrase = ['Perguntas', 'frequentes'];
+export const mobileHeaderPhrase = ['Perguntas', 'frequentes'];
 export const animate = {
   initial: {
     y: '100%',
@@ -19,23 +19,23 @@ export const animate = {
 
 export const faqData: FAQItem[] = [
   {
-    question: 'How do I create an account with RAFT?',
+    question: 'O que é a Laudos.AI?',
     answer:
-      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      'Uma plataforma de apoio ao radiologista que prioriza casos por risco, destaca achados críticos e ajuda a manter consistência diagnóstica.',
   },
   {
-    question: 'How does RAFT ensure the security of my financial data?',
+    question: 'A IA substitui o radiologista?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Não. A IA atua como segunda opinião assistida e automação de fluxo. O radiologista permanece no controle e assina o laudo.',
   },
   {
-    question: 'What types of transactions can I perform with RAFT?',
+    question: 'Como a priorização por risco funciona?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Modelos analisam sinais do exame e contexto clínico para ordenar a fila. Casos críticos sobem automaticamente para o topo.',
   },
   {
-    question: 'What benefits does RAFT offer for wealth management?',
+    question: 'Como a plataforma lida com segurança e privacidade?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'Criptografia em trânsito e em repouso, trilhas de auditoria e controles de acesso. Integração compatível com padrões do setor.',
   },
 ];
