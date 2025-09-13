@@ -18,7 +18,7 @@ const HeroSection = () => {
     <Wrapper>
       <Inner>
         <Pill>
-          <span>Apresentando Laudos.AI</span>
+          <span>Apresentando laudos.ai</span>
           <Image src={ic_chevron_right} alt="chevron-right" />
         </Pill>
         <HeroTextContainer>

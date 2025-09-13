@@ -3,7 +3,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Laudos.AI',
+  title: 'laudos.ai',
   description: 'IA radiológica que prioriza casos críticos e reduz erros diagnósticos.',
 };
 

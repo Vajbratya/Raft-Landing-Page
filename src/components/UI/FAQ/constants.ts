@@ -19,7 +19,7 @@ export const animate = {
 
 export const faqData: FAQItem[] = [
   {
-    question: 'O que é a Laudos.AI?',
+    question: 'O que é a laudos.ai?',
     answer:
       'Uma plataforma de apoio ao radiologista que prioriza casos por risco, destaca achados críticos e ajuda a manter consistência diagnóstica.',
   },

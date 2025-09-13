@@ -2,10 +2,10 @@ import grid_background from '../../../../public/images/grid_background.png';
 // For desktop
 export const desktopHeaderPhrases = [
   'IA radiológica que prioriza',
-  'e protege a qualidade',
+  'e protege a qualidade — laudos.ai',
 ];
 export const desktopParagraphPhrase = [
-  'Da triagem inteligente ao apoio diagnóstico, Laudos.AI reduz ruído,',
+  'Da triagem inteligente ao apoio diagnóstico, laudos.ai reduz ruído,',
   'destaca o crítico e mantém consistência nos seus plantões.',
 ];
 

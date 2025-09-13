@@ -37,7 +37,7 @@ export const stats = [
 // For desktop
 export const desktopHeaderPhrase = ['Qualidade previsível', 'em qualquer volume'];
 export const desktopParagraphPhrase = [
-  'Laudos.AI antecipa sobrecarga e alerta para riscos que afetam',
+  'laudos.ai antecipa sobrecarga e alerta para riscos que afetam',
   'a qualidade antes que virem erro diagnóstico.',
 ];
 

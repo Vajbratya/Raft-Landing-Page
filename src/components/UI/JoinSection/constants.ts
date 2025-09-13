@@ -12,7 +12,7 @@ export type Props = {
 export const testimonials = [
   {
     testimony:
-      'Laudos.AI reorganiza a fila e destaca achados críticos. Meu tempo voltou a ser do paciente — não do sistema.',
+      'laudos.ai reorganiza a fila e destaca achados críticos. Meu tempo voltou a ser do paciente — não do sistema.',
     person: 'Robert Fox',
     avatar: robert_fox,
   },
@@ -42,4 +42,4 @@ export const testimonials = [
   },
 ];
 
-export const desktopHeaderPhrase = ['Junte-se aos primeiros', 'a usar Laudos.AI'];
+export const desktopHeaderPhrase = ['Junte-se aos primeiros', 'a usar laudos.ai'];

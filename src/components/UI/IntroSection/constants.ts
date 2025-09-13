@@ -3,14 +3,14 @@ import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ['Apresentando', 'Laudos.AI'];
+export const desktopHeaderPhrase = ['Apresentando', 'laudos.ai'];
 export const desktopParagraphPhrase = [
   'Fluxo de radiologia sem atrito: priorização inteligente,',
   'segunda opinião assistida e consistência diagnóstica.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ['Apresentando', 'Laudos.AI'];
+export const mobileHeaderPhrase = ['Apresentando', 'laudos.ai'];
 export const mobileParagraphPhrase = [
   'Fluxo de radiologia sem atrito:',
   'priorização, segunda opinião e consistência.',

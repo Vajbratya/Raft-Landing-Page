@@ -8,7 +8,7 @@ import ic_copyright from '../../../../public/svgs/ic_copyright.svg';
 
 const linksArr = [
   {
-    title: 'Laudos.AI',
+    title: 'laudos.ai',
     links: ['Sobre', 'Carreiras', 'Blog'],
   },
   {
@@ -80,7 +80,7 @@ const Footer = () => {
             </Translator>
             <CopyRight>
               <Image src={ic_copyright} alt="copyright svg" />
-              Laudos.AI ©
+              laudos.ai ©
             </CopyRight>
           </FooterBottom>
         </FooterMainContent>

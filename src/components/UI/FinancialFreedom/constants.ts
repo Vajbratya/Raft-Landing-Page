@@ -6,7 +6,7 @@ import ic_arrows_left_right from '../../../../public/svgs/ic_arrows_right_left.s
 // For desktop
 export const desktopHeaderPhrase = ['Qualidade em escala,', 'sem perder o cuidado'];
 export const desktopParagraphPhrase = [
-  'A Laudos.AI reduz ruído, prioriza o crítico e mantém a consistência',
+  'A laudos.ai reduz ruído, prioriza o crítico e mantém a consistência',
   'dos laudos mesmo quando o volume dispara.',
 ];
 export const desktopBriefNotePhrase = [
@@ -19,7 +19,7 @@ export const desktopBriefNotePhrase = [
 // For mobile
 export const mobileHeaderPhrase = ['Qualidade em escala,', 'sem perder o cuidado'];
 export const mobileParagraphPhrase = [
-  'Laudos consistentes e priorização do crítico,',
+  'laudos consistentes e priorização do crítico,',
   'mesmo com alta demanda.',
 ];
 
